@@ -1,4 +1,4 @@
-# IR Project - Search Engine on Wikipedia
+# IR Project - Search Engine on Wikipedia  <br> Emily Toyber & Amit Avitan
 This is a search engine for English Wikipedia.
 The search engine based on veriaty of measurements and we can get the following results:
 ## Search - 
